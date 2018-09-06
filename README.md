@@ -61,7 +61,7 @@ code | message | description
             "used": 9514
         },
         "cpu_weight": 20001,
-        "created": 1528635861,
+        "created": "2018-06-10T13:04:21.500",
         "creator": "gy2danrygene",
         "delegated_bandwidth": {
             "cpu_weight": "2.0000 EOS",
@@ -70,7 +70,7 @@ code | message | description
             "to": "eosteaeostea"
         },
         "eos_balance": 0.0001,
-        "last_code_update": 0,
+        "last_code_update": "1970-01-01T00:00:00.000",
         "name": "eosteaeostea",
         "net_limit": {
             "available": 1283143,
@@ -171,19 +171,19 @@ code | message | description
         "block_id": "00900b3b0a085e701551d5f1a60c2b4897369d7152393ab928d3a52be7e3f328",
         "block_num": 9440059,
         "delay_sec": 0,
-        "expiration": "2018-08-04T19:19:26",
+        "expiration": 1533410366,
         "irreversible": true,
         "max_cpu_usage_ms": 0,
         "max_net_usage_words": 0,
         "ref_block_num": 2547,
         "ref_block_prefix": 2661908677,
-        "signatures": {
-            "0": "SIG_K1_JzL2sNqDSUetbzv5uQp8XwV2UwNY49Gvcd7kzVmX2bVAb4CTfPQJQjpGXp1XezgWQ4t38s7mmfjmYoeihT6RZcdzFqCUrr"
-        },
-        "signing_keys": {
-            "0": "EOS5eexMGYyzwxqzTjJ8x2itT78eFkU9ecEu34kifbLq7QzvrJ88V"
-        },
-        "transaction_extensions": {},
+        "signatures": [
+            "SIG_K1_JzL2sNqDSUetbzv5uQp8XwV2UwNY49Gvcd7kzVmX2bVAb4CTfPQJQjpGXp1XezgWQ4t38s7mmfjmYoeihT6RZcdzFqCUrr"
+        ],
+        "signing_keys": [
+            "EOS5eexMGYyzwxqzTjJ8x2itT78eFkU9ecEu34kifbLq7QzvrJ88V"
+        ],
+        "transaction_extensions": [],
         "transaction_id": "c5504cbbb70ce297cffc1bdd9a856e0497f3b64420bdae79063123b3ec3f5186"
     },
     "error": null,
