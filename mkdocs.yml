@@ -1,0 +1,31 @@
+site_name: 'EOSMonitor API'
+site_description: 'EOSMonitor API Service'
+site_author: 'EOSTEA'
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'White'
+    accent: 'White'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'cloud'
+  language: 'zh'
+  feature:
+    tabs: true
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/eostea/eosmonitor-api'
+markdown_extensions:
+  - meta
+  - admonition
+  - codehilite:
+      guess_lang: true
+  - toc:
+      permalink: true
+repo_name: 'eostea/eosmonitor-api'
+edit_uri: 'eostea/eosmonitor-api/docs'
+repo_url: 'https://github.com/eostea/eosmonitor-api'
