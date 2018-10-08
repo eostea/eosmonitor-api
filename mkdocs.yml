@@ -27,5 +27,5 @@ markdown_extensions:
   - toc:
       permalink: true
 repo_name: 'eostea/eosmonitor-api'
-edit_uri: 'eostea/eosmonitor-api/docs'
+edit_uri: 'docs'
 repo_url: 'https://github.com/eostea/eosmonitor-api'
